@@ -30,3 +30,6 @@ git remote add origin https://github.com/iluisbravo/clase_git.git
 
 Subir los cambios al repositorio remoto
 git push origin master
+
+Descargar los cambios remotos
+git pull origin master
