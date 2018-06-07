@@ -1,0 +1,7 @@
+CONSOLE COMMANDS
+
+crea repositorio
+git init
+
+muestra carpetas ocultas p/ verificar .git => si git se creo correctamente
+ls -la  
